@@ -1,17 +1,11 @@
 sudo: true
 dist: trusty
 cache: false
-os:
-  - osx
-language: node_js
-node_js:
-  - "8"
 
 env:
 - URL=https://developer.salesforce.com/media/salesforce-cli/sfdx-linux-amd64.tar.xz
 
 before_install:
-
 - openssl aes-256-cbc -K $encrypted_74b631a5bbbe_key -iv $encrypted_74b631a5bbbe_iv
   -in assets/server.key.enc -out assets/server.key -d
 - export SFDX_AUTOUPDATE_DISABLE=false
@@ -22,7 +16,6 @@ before_install:
 - mkdir sfdx
 - wget -qO- $URL | tar xJ -C sfdx --strip-components 1
 - "./sfdx/install"
-- npm i -g sfdx-cli
 - export PATH=./sfdx/$(pwd):$PATH
 - sfdx --version
 - sfdx plugins --core
