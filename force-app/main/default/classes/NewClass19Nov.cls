@@ -1,6 +1,6 @@
 public with sharing class NewClass19Nov {
     public NewClass19Nov() {
-        String strWelcome = 'Hi, have a great day today';
+        String strWelcome = 'Hi, have a great day today Dec 4th';
         System.debug(strWelcome);
     }
 }
