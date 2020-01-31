@@ -4,5 +4,5 @@
     <active>true</active>
     <description>Validate</description>
     <errorConditionFormula>False</errorConditionFormula>
-    <errorMessage>Error, please correct!!</errorMessage>
+    <errorMessage>Error, please fix!!</errorMessage>
 </ValidationRule>

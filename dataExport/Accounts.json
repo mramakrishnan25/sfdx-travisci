@@ -1,0 +1,98 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef1"
+            },
+            "Industry": "Media",
+            "Name": "Global Media",
+            "Phone": "(905) 555-1212"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef2"
+            },
+            "AnnualRevenue": 100000000,
+            "Industry": "Manufacturing",
+            "Name": "Acme",
+            "Phone": "(212) 555-5555"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef3"
+            },
+            "Industry": "Technology",
+            "Name": "salesforce.com",
+            "Phone": "(415) 901-7000",
+            "Website": "http://www.salesforce.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef4"
+            },
+            "Industry": "Media",
+            "Name": "New - Global Media",
+            "Phone": "(905) 555-1212"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef5"
+            },
+            "Industry": "Media",
+            "Name": "New - Global Media",
+            "Phone": "(905) 555-1212"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef6"
+            },
+            "AnnualRevenue": 100000000,
+            "Industry": "Manufacturing",
+            "Name": "Acme",
+            "Phone": "(212) 555-5555"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef7"
+            },
+            "Industry": "Technology",
+            "Name": "salesforce.com",
+            "Phone": "(415) 901-7000",
+            "Website": "http://www.salesforce.com"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef8"
+            },
+            "Industry": "Media",
+            "Name": "New - Global Media",
+            "Phone": "(905) 555-1212"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef9"
+            },
+            "Industry": "Media",
+            "Name": "New - Global Media",
+            "Phone": "(905) 555-1212"
+        },
+        {
+            "attributes": {
+                "type": "Account",
+                "referenceId": "AccountRef10"
+            },
+            "Industry": "Media",
+            "Name": "New - Global Media",
+            "Phone": "(905) 555-1212"
+        }
+    ]
+}

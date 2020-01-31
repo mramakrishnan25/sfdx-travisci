@@ -1,0 +1,61 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef1"
+            },
+            "FirstName": "Jon",
+            "LastName": "Amos",
+            "Email": "info@salesforce.com",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef2"
+            },
+            "FirstName": "John",
+            "LastName": "Bergman",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef3"
+            },
+            "FirstName": "Jon",
+            "LastName": "Berman",
+            "AccountId": "@AccountRef1"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef4"
+            },
+            "FirstName": "Edward",
+            "LastName": "Stamos",
+            "Email": "info@salesforce.com",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef5"
+            },
+            "FirstName": "Jon",
+            "LastName": "Choo",
+            "AccountId": "@AccountRef2"
+        },
+        {
+            "attributes": {
+                "type": "Contact",
+                "referenceId": "ContactRef6"
+            },
+            "FirstName": "Jon",
+            "LastName": "Amos",
+            "Email": "info@salesforce.com",
+            "AccountId": "@AccountRef4"
+        }
+    ]
+}
