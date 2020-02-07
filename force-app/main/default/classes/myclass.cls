@@ -1,7 +1,7 @@
 public with sharing class myclass {
 /*comment*/
 	public myclass() {
-		integer i = 5000; /*just for demo Dec 11th*/
+		integer i = 500; /*just for demo Dec 11th*/
 
 	}
 
